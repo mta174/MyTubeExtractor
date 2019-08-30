@@ -1,2 +1,2 @@
-include ':app', ':extractor', ':timeago-parser'
+include ':extractor',':timeago-parser'
 rootProject.name='TubeExtractor'
